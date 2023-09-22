@@ -5,4 +5,4 @@ title: Accueil
 
 documentation création numérique
 
-[test](/2023/prenom-nom/titre/)
+[test](/prenom-nom/2023/titre-projet)
