@@ -4,3 +4,5 @@ title: planétarium
 ---
 
 #hello world
+
+{% image "schrek git.png", "texte alternatif" %}
