@@ -12,4 +12,4 @@ Des références commentées permettant de positionner le projet.
 Ces références ne doivent pas être un passage obligatoire uniquement au
 début du projet, mais réactualisées en fonction des évolutions de celui-ci.
 
-{% image "RenderFrame001.png", "render_plant_image_test_001"}
+{% image "RenderFrame001.png", "render_plant_image_test_001" %}
