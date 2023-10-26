@@ -8,8 +8,6 @@ title: titre
 
 # Un ancrage référencé :
 
-{% image "screenshot01.avif", "Some notions on Micro" %}
-
 # Description du projet :
 
 #

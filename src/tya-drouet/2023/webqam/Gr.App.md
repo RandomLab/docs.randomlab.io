@@ -8,15 +8,9 @@ Avoir manipulé stable division afin d'analyser
 
 # Un ancrage référencé :
 
-{% image "screenshot01.avif", "Some notions on Micro" %}
-
 # Description du projet :
 
-
-
-
 # Gr.App ce que j'en rentiens :
-
 
 # Besoins Analysé :
 - Identité Solidaire
