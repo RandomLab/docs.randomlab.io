@@ -19,7 +19,6 @@ function imageShortcode(src, alt, sizes="(min-width: 1024px) 100vw, 50vw") {
         }
     }
 
-    // generate images
     Image(imageSrc, options)
 
     let imageAttributes = {
@@ -28,7 +27,7 @@ function imageShortcode(src, alt, sizes="(min-width: 1024px) 100vw, 50vw") {
         loading: "lazy",
         decoding: "async",
     }
-    // get metadata
+
     metadata = Image.statsSync(imageSrc, options)
     return Image.generateHTML(metadata, imageAttributes)
 
@@ -40,6 +39,12 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addLayoutAlias('index', 'layouts/index')
     eleventyConfig.addLayoutAlias('projet', 'layouts/projet')
+
+    eleventyConfig.addCollection("type", function(collectionApi) {
+        return collectionApi.getAll().filter(function(item) {
+            return "type" in item.data
+        })
+    })
 
     return {
         templateFormats: [ "md", "njk", "html", "jpg", "webp"],
