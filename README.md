@@ -12,3 +12,12 @@
 - [ ] Ajouter header metadonnées dans les .md
 - [ ] Script pour vérfier que les images sont au bon format
 - [ ] Ajouter assets css/js
+
+
+# format des métadonnées du fichier .MD
+
+---
+layout : projet
+title: mon titre
+type: projet
+---
