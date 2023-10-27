@@ -12,6 +12,7 @@
 - [ ] Ajouter header metadonnées dans les .md
 - [ ] Script pour vérfier que les images sont au bon format
 - [ ] Ajouter assets css/js
+- [ ] Pouvoir ajouter des vidéos
 
 
 # format des métadonnées du fichier .MD
