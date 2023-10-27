@@ -35,7 +35,7 @@ Andreas Palfinger,virtual Architecture,
         
         workshop intelligence artificiel text to image to 3d:  https://youtu.be/eYqkWWLWf7g?si=9l6elavgVMdBqpj6
 
-{% image "", "" %}
+
 
 # Définir le projet :
 
@@ -52,4 +52,5 @@ intelligence artificiel générative
 # Les productions
 Les axes et formalisations des recherches et le rendu final
 
-% image "", "" %}
+{% image "untitled1.png", "gabriel_lecurieux-lafferronnay" %}
+{% image "untitled.png", "gabriel_lecurieux-lafferronnay" %}
