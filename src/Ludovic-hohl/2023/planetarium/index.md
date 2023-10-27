@@ -1,5 +1,5 @@
 ---
-layout: Planetarium
+layout: projet
 title: Insecte
 ---
 
