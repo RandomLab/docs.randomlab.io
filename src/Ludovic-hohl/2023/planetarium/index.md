@@ -1,6 +1,6 @@
 ---
-layout: projet
-title: titre
+layout: Planetarium
+title: Insecte
 ---
 
 # Intention du projet :
