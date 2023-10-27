@@ -6,3 +6,5 @@ author: prénom nom
 ---
 
 hello
+
+{% image "qqqaaa.png", "Some notions on Miro" %}
