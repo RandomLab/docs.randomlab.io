@@ -1,6 +1,8 @@
 ---
 layout: projet
 title: RMI
+type: 3d gen
+author: Gabriel Lecurieux-Lafferronnay
 ---
 
 # Intention du projet :
