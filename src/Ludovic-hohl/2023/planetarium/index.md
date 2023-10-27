@@ -1,6 +1,6 @@
 ---
 layout: projet
-title: titre
+title: Insecte
 ---
 
 # Intention du projet :
