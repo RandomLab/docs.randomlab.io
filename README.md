@@ -1,27 +1,28 @@
-# Vendredi 27 octobre
+# Vendredi 10 novemnre
 
 - [x] Nettoyage des dossiers :tada:
 - [x] Ajout collection 'type projet'
-- [ ] Faire un index des projets
+- [x] Faire un index des projets
 - [ ] Ajout date
 - [ ] Ajout tags
-- [ ] Paramétrage connection ssh github
+- [x] Paramétrage connection ssh github
 - [ ] Créer des dossiers manquants
 - [ ] Compléter les dossiers existants
-- [ ] Ajouter des images
-- [ ] Ajouter header metadonnées dans les .md
+- [x] Ajouter des images
+- [x] Ajouter header metadonnées dans les .md
 - [ ] Script pour vérfier que les images sont au bon format
-- [ ] Ajouter assets css/js
+- [x] Ajouter assets css
 - [ ] Pouvoir ajouter des vidéos
+- [ ] Ajouter publish true/false
 
 
-# format des métadonnées du fichier .MD
+# Format des métadonnées du fichier .MD
 
----
-layout : projet
-title: mon titre
+```
+layout : page
 type: projet
-author: prénom nom
----
+title: "mon titre"
+author: "prénom nom"
+```
 
-# mettre la doc pour mettre en place ??
+# Comment documenter ?

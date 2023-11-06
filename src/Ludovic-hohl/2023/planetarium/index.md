@@ -1,6 +1,8 @@
 ---
-layout: projet
-title: Insecte
+layout: page
+type: projet
+title: "Insecte"
+author: "Ludovic Hohl"
 ---
 
 # Intention du projet :

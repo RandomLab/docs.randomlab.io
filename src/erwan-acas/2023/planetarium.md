@@ -1,8 +1,8 @@
 ---
-layout: projet
-title: planétarium
+layout: page
 type: projet
-author: Erwan Acas
+title: "Planétarium"
+author: "Erwan Acas"
 ---
 
 # hello world

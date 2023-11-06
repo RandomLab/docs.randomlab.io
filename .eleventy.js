@@ -38,13 +38,15 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addShortcode("image", imageShortcode)
 
     eleventyConfig.addLayoutAlias('index', 'layouts/index')
-    eleventyConfig.addLayoutAlias('projet', 'layouts/projet')
+    eleventyConfig.addLayoutAlias('page', 'layouts/page')
 
     eleventyConfig.addCollection("type", function(collectionApi) {
         return collectionApi.getAll().filter(function(item) {
             return "type" in item.data
         })
     })
+
+    eleventyConfig.addPassthroughCopy('./src/assets/css/')
 
     return {
         templateFormats: [ "md", "njk", "html", "jpg", "webp"],

@@ -1,11 +1,11 @@
 ---
-layout: projet
-title: Planétarium
+layout: page
 type: projet
-author: Sarah Boutiere
+title: "Planétarium"
+author: "Sarah Boutiere"
 ---
 
-#Nom du projet : 
+# Nom du projet : 
 Inside
 
 Projet planétarium, work in progress

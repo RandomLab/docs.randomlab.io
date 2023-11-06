@@ -1,6 +1,8 @@
 ---
-layout: projet
-title: titre
+layout: page
+type: projet
+title: "Planétarium"
+author: "Tya Drouet"
 ---
 
 # Intention du projet :

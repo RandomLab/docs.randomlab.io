@@ -1,13 +1,13 @@
 {% include "../components/header.njk" %}
 
+<section class="container">
 <ol>
 {%- for projet in collections.type -%}
-
-    {{ projet.data | log }}
 
     <li><a href="{{ projet.data.page.url }}">{{ projet.data.title }}, {{ projet.data.author }}</a></li>
 
 {%- endfor %}
 </ol>
+</section>
 
 {% include "../components/footer.njk" %}

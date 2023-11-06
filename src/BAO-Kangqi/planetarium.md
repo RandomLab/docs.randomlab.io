@@ -1,8 +1,8 @@
 ---
-layout : projet
-title: mon titre
+layout : page
 type: projet
-author: prénom nom
+title: "Planétarium"
+author: "Kangqi Bao"
 ---
 
 hello
