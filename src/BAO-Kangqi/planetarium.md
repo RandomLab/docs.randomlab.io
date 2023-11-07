@@ -3,8 +3,9 @@ layout : page
 type: projet
 title: "Planétarium"
 author: "Kangqi Bao"
+publish: true
 ---
 
-hello
+# hello
 
 {% image "qqqaaa.png", "Some notions on Miro" %}

@@ -1,8 +1,44 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title {
+    position: fixed;
+    margin-right: 10px;
+    margin-top: 10px;
+    top: 0;
+    right: 0;
+}
 
 .container {
     margin: 5%;
 }
 
+.navigation {
+    margin-bottom: 50px;
+}
+
+.index {
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+}
+
+a {
+    color: black;
+}
+
 img {
     width: 100%;
+}
+
+h1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.3rem;
 }

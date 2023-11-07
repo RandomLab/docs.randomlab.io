@@ -3,6 +3,7 @@ layout: page
 type: projet
 title: "webqam"
 author: "Tya Drouet"
+publish: true
 ---
 
 # Intention du projet :

@@ -3,6 +3,7 @@ layout: page
 type: projet
 title: "Planétarium"
 author: "Sarah Boutiere"
+publish: true
 ---
 
 # Nom du projet : 

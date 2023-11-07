@@ -1,10 +1,14 @@
 {% include "../components/header.njk" %}
 
 <section class="container">
+    
     {% include "../components/nav.njk" %}
 
-{{ content | safe }}
+    <article class="projet">
+    {{ content | safe }}
+    </article>
 
 </section>
+
 {% include "../components/footer.njk" %}
 

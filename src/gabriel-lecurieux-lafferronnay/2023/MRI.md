@@ -3,39 +3,42 @@ layout: page
 type: projet
 title: "RMI"
 author: "Gabriel Lecurieux-Lafferronnay"
+publish: true
 ---
 
 # Intention du projet :
+
 expérimentation de tranformation d'un objet temporel altéré et transformé en un objet tangible
 
 # Un ancrage référencé :
+
 Andreas Palfinger,virtual Architecture,
 
-        dith design
+dith design
 
-        hybycozo
+hybycozo
 
-        manifeste I sur la peinture nucléaire
+manifeste I sur la peinture nucléaire
 
-        César Henao
+César Henao
 
-        Casey Reas
+Casey Reas
 
-        Ryoji Ikeda
+Ryoji Ikeda
 
-        Marius Watz, CIRCGRID, ARC DRAWING, FORM STUDIES, MODULAR LATTICE,ABSTRACT01.JS
+Marius Watz, CIRCGRID, ARC DRAWING, FORM STUDIES, MODULAR LATTICE,ABSTRACT01.JS
 
-        Jared Tarbell,Sand Traveler, Sand Dollar
+Jared Tarbell,Sand Traveler, Sand Dollar
 
-        Sougwen Chung, ligature
+Sougwen Chung, ligature
 
-        Jonathan McCabe, Diatomaceous Three
+Jonathan McCabe, Diatomaceous Three
 
-        Golan Levin, Alchetron
+Golan Levin, Alchetron
 
-        Quayola, Remains
-        
-        workshop intelligence artificiel text to image to 3d:  https://youtu.be/eYqkWWLWf7g?si=9l6elavgVMdBqpj6
+Quayola, Remains
+
+workshop intelligence artificiel text to image to 3d:  https://youtu.be/eYqkWWLWf7g?si=9l6elavgVMdBqpj6
 
 
 
@@ -52,6 +55,7 @@ scan 3D
 intelligence artificiel générative
 
 # Les productions
+
 Les axes et formalisations des recherches et le rendu final
 
 {% image "untitled1.png", "gabriel_lecurieux-lafferronnay" %}

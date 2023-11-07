@@ -1,13 +1,19 @@
 {% include "../components/header.njk" %}
 
 <section class="container">
-<ol>
+
+<ul class="index">
 {%- for projet in collections.type -%}
+
+    {% if projet.data.publish %}
 
     <li><a href="{{ projet.data.page.url }}">{{ projet.data.title }}, {{ projet.data.author }}</a></li>
 
+    {% endif %}
+
 {%- endfor %}
-</ol>
+</ul>
+
 </section>
 
 {% include "../components/footer.njk" %}

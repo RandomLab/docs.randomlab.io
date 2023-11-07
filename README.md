@@ -13,7 +13,8 @@
 - [ ] Script pour vérfier que les images sont au bon format
 - [x] Ajouter assets css
 - [ ] Pouvoir ajouter des vidéos
-- [ ] Ajouter publish true/false
+- [x] Ajouter publish true/false
+- [ ] Caption images
 
 
 # Format des métadonnées du fichier .MD

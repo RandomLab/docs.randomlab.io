@@ -3,6 +3,7 @@ layout: page
 type: projet
 title: "Insecte"
 author: "Ludovic Hohl"
+publish: true
 ---
 
 # Intention du projet :
