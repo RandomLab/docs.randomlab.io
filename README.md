@@ -58,20 +58,31 @@ pas de caractères spéciaux, espace, accents, etc
 
 ## Cloner le dépôt
 
-Le dépôt est ici : https://github.com/RandomLab/docs.randomlab.io
 pour le cloner en ssh :
 
 ```
 git clone git@github.com:RandomLab/docs.randomlab.io.git
 ```
 
-## Si le dépôt est déjà cloner
+## Si le dépôt est déjà cloner
 
 ```
 git pull
 ```
 
-On renseigne son travail dans un dossier 
+On renseigne son travail dans un dossier (voir structure)
+Après avoir fini de documenter, on ajoute les changements dans git en local
+
+```
+git add .
+git commit -m "j'ai bien travailler"
+```
+
+On envoir sa copie local au serveur github
+
+```
+git push
+```
 
 
 
