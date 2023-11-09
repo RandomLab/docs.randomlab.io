@@ -70,7 +70,7 @@ git clone git@github.com:RandomLab/docs.randomlab.io.git
 git pull
 ```
 
-On renseigne son travail dans un dossier (voir structure)
+On renseigne son travail dans un dossier (voir [structure](#structure-du-projet))
 Après avoir fini de documenter, on ajoute les changements dans git en local
 
 ```
