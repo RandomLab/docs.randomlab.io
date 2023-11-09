@@ -77,7 +77,7 @@ Après avoir fini de documenter, on ajoute les changements dans git en local
 
 ```
 git add .
-git commit -m "j'ai bien travaillé"
+git commit -m "j'ai bien travaillé.e"
 ```
 
 On envoir sa copie local au serveur github
