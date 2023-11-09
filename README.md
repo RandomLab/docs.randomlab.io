@@ -31,7 +31,7 @@ publish: true
 
 Le projet est basé sur le générateur de site statique [Eleventy](https://www.11ty.dev/)
 
-## structure du projet
+## structure du projet
 
 ```
 root/ 
