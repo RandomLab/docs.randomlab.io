@@ -31,7 +31,7 @@ publish: true
 
 Le projet est basé sur le générateur de site statique [Eleventy](https://www.11ty.dev/)
 
-## structure du projet
+## structure du projet
 
 ```
 root/ 
@@ -72,7 +72,7 @@ git clone git@github.com:RandomLab/docs.randomlab.io.git
 git pull
 ```
 
-On renseigne son travail dans un dossier (voir structure)
+On renseigne son travail dans un dossier (voir [structure](#structure-du-projet))
 Après avoir fini de documenter, on ajoute les changements dans git en local
 
 ```
