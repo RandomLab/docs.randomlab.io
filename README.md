@@ -36,9 +36,11 @@ Le projet est basé sur le générateur de site statique [Eleventy](https://www.
 ```
 root/ 
       |
-      -- eleventy.js
-      -- \_includes
-      -- assets
+      
+      -- eleventy.js       (fichier de configuration)
+      -- \_includes        (templates)
+      -- assets            (css et js)
+      
       -- src/ 
               |
               -- <prenom-nom>/
