@@ -1,4 +1,4 @@
-# Vendredi 10 novemnre
+# à faire
 
 - [x] Nettoyage des dossiers :tada:
 - [x] Ajout collection 'type projet'
@@ -24,6 +24,53 @@ layout : page
 type: projet
 title: "mon titre"
 author: "prénom nom"
+publish: true
 ```
 
 # Comment documenter ?
+
+Le projet est basé sur le générateur de site statique [Eleventy](https://www.11ty.dev/)
+
+structure du projet:
+
+root/ 
+      |
+      -- eleventy.js
+      -- \_includes
+      -- assets
+      -- src/ 
+              |
+              -- <prenom-nom>/
+                              |
+                              -- <annee>/
+                                          |
+                                          -- <titre>/
+                                                     |
+                                                      -- index.md
+                                                      -- <image.jpg>
+                
+
+### Nom des dossiers et fichiers
+
+pas de caractères spéciaux, espace, accents, etc
+
+## Cloner le dépôt
+
+Le dépôt est ici : https://github.com/RandomLab/docs.randomlab.io
+pour le cloner en ssh :
+
+```
+git clone git@github.com:RandomLab/docs.randomlab.io.git
+```
+
+## Si le dépôt est déjà cloner
+
+```
+git pull
+```
+
+On renseigne son travail dans un dossier 
+
+
+
+
