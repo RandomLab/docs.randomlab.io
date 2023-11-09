@@ -33,6 +33,7 @@ Le projet est basé sur le générateur de site statique [Eleventy](https://www.
 
 structure du projet:
 
+```
 root/ 
       |
       -- eleventy.js
@@ -49,6 +50,7 @@ root/
                                                       -- index.md
                                                       -- <image.jpg>
                 
+```
 
 ### Nom des dossiers et fichiers
 
