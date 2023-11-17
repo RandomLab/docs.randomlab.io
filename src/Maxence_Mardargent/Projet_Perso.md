@@ -1,6 +1,6 @@
 ---
-layout: Page
-type: Projet
+layout: page
+type: projet
 title: "Projet perso"
 author: "Maxence Mardargent"
 publish: false
