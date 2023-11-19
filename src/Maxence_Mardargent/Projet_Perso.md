@@ -16,19 +16,40 @@ Inspiré de la "Divine Comédie" de Dante, j'explore les paysages intérieurs qu
 
 ### 3 - Documentation et argumentation pour l'univers des références de projets :
 
-![Dimitry Thouzery_Stormy_vortex.jpg](:/51f631e06b9248f19ae195ce5d07d081)
+    
 - *Dimitri Thouzery* : Univers graphique fort, expériences immersives, convergence art/technologie/public, vidéo/projection/matériaux.
+{% image "1_Dimitry Thouzery_Stormy_vortex.jpg", "rérences" %}
+
 - *Olivier Ledroit* : Illustrateur, univers sombre et fantastique, détail, travail sur l'enfer, référencement visuel.
+{% image "2_Olivier_Ledroit_Requiem.jpg", "rérences" %}
+
 - *Zdzislaw Beksinski* : Peintre, paysages surréalistes, couleurs, imaginaire sombre.
+{% image "3_Zdzislaw_Beksinski_SsTitre.jpeg", "rérences" %}
+
 - *Ann Veronica Janssens* : Installation sensorielle, phénomènes optiques, matière, reflets.
+{% image "4_Ann_Veronica_Janssens_FrissonBleu.jpg", "rérences" %}
+
 - *Julio Le Parc* : Relation lumière, mouvement, espace, réflexion.
+{% image "5_Julio_Le_Parc_Continuel_Lumière_Cylindre.jpg", "rérences" %}
+
 - *Olafur Eliasson* : Spectre lumineux, ambiances, utilisation de cellules.
+{% image "6_Olafur_Eliasson_Your_Body_Of_Work.jpg", "rérences" %}
+
 - *Anthony McCall* : Sculpture de la lumière, alternative à la création d'une vidéo.
+{% image "7_Anthony_McCall_Solid_Light_Works.jpg", "rérences" %}
+
 - *Bill Viola* : Installation, couleurs, aspect visuel.
+{% image "8_Bill_Viola_Temporalidad_y_trascendencia.jpg", "rérences" %}
+
 - *Hiro Yamagata architecte* : Installations lumineuses et colorées, espaces architecturaux.
+{% image "9_Hiro_Yamagata_Cube.jpg", "rérences" %}
+
 - *Carsten Nicolai* : Installation sonore, détournement de son utilisation principale pour l'orienter vers mon travail.
+{% image "10_Nicolai_Carsten_Autonome.jpg", "rérences" %}
+
 - *Diana Thater* : Installation originale.
-- *James Turrell* : Système d'installation.
+{% image "11_Diana_Thater_Runaway_world.jpg", "rérences" %}
+
 
 ### 4 - Décrire plus précisément votre projet :
 
@@ -38,5 +59,3 @@ Je désire concevoir une scénographie composée d'une ou plusieurs animations v
 
 - Pour l'animation : Blender.
 - Pour la scénographie : ateliers.
-
-[def]: :/51f631e06b9248f19ae195ce5d07d081
