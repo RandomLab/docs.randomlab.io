@@ -16,6 +16,7 @@ Inspiré de la "Divine Comédie" de Dante, j'explore les paysages intérieurs qu
 
 ### 3 - Documentation et argumentation pour l'univers des références de projets :
 
+![Dimitry Thouzery_Stormy_vortex.jpg](:/51f631e06b9248f19ae195ce5d07d081)
 - *Dimitri Thouzery* : Univers graphique fort, expériences immersives, convergence art/technologie/public, vidéo/projection/matériaux.
 - *Olivier Ledroit* : Illustrateur, univers sombre et fantastique, détail, travail sur l'enfer, référencement visuel.
 - *Zdzislaw Beksinski* : Peintre, paysages surréalistes, couleurs, imaginaire sombre.
@@ -37,3 +38,5 @@ Je désire concevoir une scénographie composée d'une ou plusieurs animations v
 
 - Pour l'animation : Blender.
 - Pour la scénographie : ateliers.
+
+[def]: :/51f631e06b9248f19ae195ce5d07d081
