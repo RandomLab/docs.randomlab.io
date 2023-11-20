@@ -26,7 +26,7 @@ Chaque individu, en se synchronisant avec les autres crée un tout et un mouveme
 *Retour à la caverne*, JR <br>
 Même principe que pour Beyond Vision ; plusieurs danseurs se synchronisent pour dessiner des motifs sur un espace. Un danseur seul n'a que peu d'intérêt et c'est lorsqu'ils se coordonnent que la chorégraphie prend sens. 
 
-![Collective_behavior](/collective_behavior1.jpeg)
+![Collective_behavior](/src/sarah-boutiere/2023/projet_personnel/collective_behavior1.jpeg)
 *Collective Behavior*, Kimchi and chips <br>
 Utilisation de miroir pour la scénographie d'un spectacle de danse. Les danseurs paraissent alors très nombreux et leurs corps et mouvements revêtent un aspect différent. 
 Encore une fois la question du multiple créant un mouvement unifié. 
