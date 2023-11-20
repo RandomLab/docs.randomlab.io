@@ -28,5 +28,13 @@ Les éléments qui peuvent faire univers:
 
 
     - Le Game plays.
+    - Le Son.
 
-        
+
+Objectif de Projet perso: 
+
+    - multitude de rélisation.
+
+    Dans un premier temps je vais travailler sur l'interaction entre différents éléments. Je vais pour cela commencer par la modulation de muisque par des éléments externe différent. Je vais commencer par controler des synthétiseur modulaire. 
+    En passant dans un premier temps par blender. Puis par des capteurs externes.
+
