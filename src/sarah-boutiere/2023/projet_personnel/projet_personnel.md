@@ -16,13 +16,13 @@ Raconter et transposer un espace par les ryhtmes crées par les déplacement des
 
 # Documenter et argumenter un univers de projets de références :
 
-![Beyon_Vision](/beyond-vision1.jpg)
+![Beyon_Vision](/src/sarah-boutiere/2023/projet_personnel/beyond-vision1.jpg)
 *Beyond vision*, Marcelo Coelho<br>
 Performance regroupant 400 danseurs chacun équipé de baton lumineux. 
 Par la chorégraphie, la synchronisation de leurs mouvements et la programmation des batons de lumière ; le mouvement s'unifie pour créer un spectacle global.
 Chaque individu, en se synchronisant avec les autres crée un tout et un mouvement fluide, qui se transforme en un danse lumineuse. 
 
-![Retour_a_la_caverne](/Retour_à_la_caverne.png)
+![Retour_a_la_caverne](/src/sarah-boutiere/2023/projet_personnel/Retour_à_la_caverne.png)
 *Retour à la caverne*, JR <br>
 Même principe que pour Beyond Vision ; plusieurs danseurs se synchronisent pour dessiner des motifs sur un espace. Un danseur seul n'a que peu d'intérêt et c'est lorsqu'ils se coordonnent que la chorégraphie prend sens. 
 
@@ -31,31 +31,31 @@ Même principe que pour Beyond Vision ; plusieurs danseurs se synchronisent pour
 Utilisation de miroir pour la scénographie d'un spectacle de danse. Les danseurs paraissent alors très nombreux et leurs corps et mouvements revêtent un aspect différent. 
 Encore une fois la question du multiple créant un mouvement unifié. 
 
-![Tele-present_wind](/telepresent_wind.jpg)
+![Tele-present_wind](/src/sarah-boutiere/2023/projet_personnel/telepresent_wind.jpg)
 *Tele-present wind*, David Bowen <br>
 Transposition d'un espace par la matérialisation d'une de ses caractéristiques en l'occurence ; le vent.
 
-![Binary_waves](/binary_waves3.jpg) <br>
+![Binary_waves](/src/sarah-boutiere/2023/projet_personnel/binary_waves3.jpg) <br>
 *Binary waves*, LAb[au]<br>
 Dispositif interactif qui capte des flux pour les retranscrire sur ces élements lumineux. Avec des éléments et mouvements simples, ils arrivent à retranscrire les flux d'une manière unifié et chorégraphié. 
 
-![Pergola](/Pergola_labau.png) <br>
+![Pergola](/src/sarah-boutiere/2023/projet_personnel/Pergola_labau.png) <br>
 *Pergola*, LAb[au]<br>
 Pergola interactive projetant des ombres sur le sol. Intérêt au niveau de l'interaction qui va mettre en avant les déplacements des personnes qui passent en dessous. Plastiquement les projections d'ombres et leurs mouvements sont intéressants créant un théâtre d'ombre chinoise abstrait. 
 
-![Optical_rail](/opticalrail_taeyoung3.jpg)
+![Optical_rail](/src/sarah-boutiere/2023/projet_personnel/opticalrail_taeyoung3.jpg)
 *Optical rail*, Kimchi and chips <br>
 Intérêt plastique / création physique
 Plusieurs modules qui créent un mouvement unifié. 
 
-![Continuum](/Continuum_HIGH_005.jpg)
+![Continuum](/src/sarah-boutiere/2023/projet_personnel/Continuum_HIGH_005.jpg)
 *Continuum*, United Visual Artists <br>
 Intérêt plastique / création physique
 Plusieurs modules qui créent un mouvement unifié. 
 
-!
-*As radical as reality*, Dana Thater
-Eh merci Maxence pour la ref
+![Diana_Thater](/src/sarah-boutiere/2023/projet_personnel/ICA_THATER_V30.jpg)
+*As radical as reality*, Diana Thater <br>
+Mise en espace simple et intéressante. 
 
 
 # Décrire plus précisément votre projet :
