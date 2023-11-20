@@ -38,3 +38,7 @@ Objectif de Projet perso:
     Dans un premier temps je vais travailler sur l'interaction entre différents éléments. Je vais pour cela commencer par la modulation de muisque par des éléments externe différent. Je vais commencer par controler des synthétiseur modulaire. 
     En passant dans un premier temps par blender. Puis par des capteurs externes.
 
+    Expérimentation avec le son :
+
+    Dans un premier temps teste avec de modulation du son avec Blender. 
+    Puis essayé de modifier la music avec des éléments externe ( capteur de lumière, force, son... ).
