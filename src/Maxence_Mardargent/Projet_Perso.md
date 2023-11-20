@@ -16,39 +16,39 @@ Inspiré de la "Divine Comédie" de Dante, j'explore les paysages intérieurs qu
 
 ### 3 - Documentation et argumentation pour l'univers des références de projets :
 
-    
+![Dimitry Thouzery](/src/Maxence_Mardargent/Img/1_Dimitry%20Thouzery_Stormy_vortex.jpg)
 - *Dimitri Thouzery* : Univers graphique fort, expériences immersives, convergence art/technologie/public, vidéo/projection/matériaux.
-{% image "1_Dimitry Thouzery_Stormy_vortex.jpg", "rérences" %}
 
+![Olivier Ledroit](/src/Maxence_Mardargent/Img/2_Olivier_Ledroit_Requiem.jpg)
 - *Olivier Ledroit* : Illustrateur, univers sombre et fantastique, détail, travail sur l'enfer, référencement visuel.
-{% image "2_Olivier_Ledroit_Requiem.jpg", "rérences" %}
 
+![Zdzislaw Beksinski](/src/Maxence_Mardargent/Img/3_Zdzislaw_Beksinski_SsTitre.jpeg)
 - *Zdzislaw Beksinski* : Peintre, paysages surréalistes, couleurs, imaginaire sombre.
-{% image "3_Zdzislaw_Beksinski_SsTitre.jpeg", "rérences" %}
 
+![Ann Veronica Janssens](/src/Maxence_Mardargent/Img/4_Ann_Veronica_Janssens_FrissonBleu.jpg)
 - *Ann Veronica Janssens* : Installation sensorielle, phénomènes optiques, matière, reflets.
-{% image "4_Ann_Veronica_Janssens_FrissonBleu.jpg", "rérences" %}
 
+![Julio Le Parc](/src/Maxence_Mardargent/Img/5_Julio_Le_Parc_Continuel_Lumière_Cylindre.jpg)
 - *Julio Le Parc* : Relation lumière, mouvement, espace, réflexion.
-{% image "5_Julio_Le_Parc_Continuel_Lumière_Cylindre.jpg", "rérences" %}
 
+![Olafur Eliasson](/src/Maxence_Mardargent/Img/6_Olafur_Eliasson_Your_Body_Of_Work.jpg)
 - *Olafur Eliasson* : Spectre lumineux, ambiances, utilisation de cellules.
-{% image "6_Olafur_Eliasson_Your_Body_Of_Work.jpg", "rérences" %}
 
+![Anthony McCall](/src/Maxence_Mardargent/Img/7_Anthony_McCall_Solid_Light_Works.jpg)
 - *Anthony McCall* : Sculpture de la lumière, alternative à la création d'une vidéo.
-{% image "7_Anthony_McCall_Solid_Light_Works.jpg", "rérences" %}
 
+![Bill Viola](/src/Maxence_Mardargent/Img/8_Bill_Viola_Temporalidad_y_trascendencia.jpg)
 - *Bill Viola* : Installation, couleurs, aspect visuel.
-{% image "8_Bill_Viola_Temporalidad_y_trascendencia.jpg", "rérences" %}
 
+![Hiro Yamagata architecte](/src/Maxence_Mardargent/Img/9_Hiro_Yamagata_Cube.jpg)
 - *Hiro Yamagata architecte* : Installations lumineuses et colorées, espaces architecturaux.
-{% image "9_Hiro_Yamagata_Cube.jpg", "rérences" %}
 
+![Carsten Nicolai](/src/Maxence_Mardargent/Img/10_Nicolai_Carsten_Autonome.jpg)
 - *Carsten Nicolai* : Installation sonore, détournement de son utilisation principale pour l'orienter vers mon travail.
-{% image "10_Nicolai_Carsten_Autonome.jpg", "rérences" %}
 
+![Diana Thater](/src/Maxence_Mardargent/Img/11_Diana_Thater_Runaway_world.jpg)
 - *Diana Thater* : Installation originale.
-{% image "11_Diana_Thater_Runaway_world.jpg", "rérences" %}
+
 
 
 ### 4 - Décrire plus précisément votre projet :
