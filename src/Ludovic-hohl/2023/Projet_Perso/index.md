@@ -1,5 +1,5 @@
 ---
-layout: projet
+layout: page
 title: projet_perso
 ---
 
