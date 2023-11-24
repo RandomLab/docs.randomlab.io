@@ -1,6 +1,9 @@
 ---
-layout: page
-title: projet_perso
+layout : page
+type: projet
+title: "Imersion"
+author: "Hohl_Ludovic"
+publish: true
 ---
 
 # Intention du projet :
