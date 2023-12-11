@@ -8,93 +8,131 @@ publish: true
 
 # Nom du projet : 
 
-Présence fantôme
+<!-- Présence fantôme
+
+Rythmes et influences
+
+Influences
+
+Chorégraphie de groupe ?
+
+Chien de berger
+
+Danse à plusieurs
+
+Chef d'orchestre -->
+
+Je et nous 
 
 # Décrivez en une phrase votre projet : 
 
-//Raconter et transposer un espace par les ryhtmes crées par les déplacement des individus qui le peuplent et le caractérise.
+<!-- Observer les influences des fluxs de personnes sur un individu et ainsi pousser à être plus attentif à son environnement
 
-Matérialiser un espace par le biais des individus qui le peuplent ?
+Se placer en tant qu'observateur 
 
-Transposer / matérialiser la présence des déplacements d'un espace pour extraire et retranscrire ses rythmes / ambiances
+Orchestrer 
 
-//Est-ce que la présence fantôme et le rythme d'un espace =/ deux projets différents ? 
+Recréer des situations de déplacement du quotidien en influençant des déplacements de groupe pour chorégraphier ces mouvements.
+
+Créer une chorégraphie à plusieurs à partir d'une action basique (la marche) grâce à des automates qui vont forcer et influencer le mouvement. -->
+
+<!-- Créer une installation "performative" dont le but est d' -->
+Influencer les participants pour créer une chorégraphie à plusieurs qui se construit en temps réel avec une action simple du quotidien : la marche.
 
 # Documenter et argumenter un univers de projets de références :
 
-<!-- {% image "telepresent_wind.jpg", "Test" %} -->
-![Tele-present_wind](/src/sarah-boutiere/2023/projet_personnel/telepresent_wind.jpg) <br>
-*Tele-present wind*, David Bowen <br>
-Transposition du vent présent dans un espace par la matérialisation de celui-ci grâce au mouvement qu'il engendre sur une plante. 
 
-<!-- {% image "telepresent_water.jpeg", "Test" %} -->
-![Tele-present_water](/src/sarah-boutiere/2023/projet_personnel/telepresent_water.jpeg)<br>
-*Tele present water*, David Bowen <br>
-Tout pareil mais avec de l'eau. 
-Matérialisation de celle-ci cette fois grâce à un "filet" qui bouge comme s'il flottait sur l'eau. 
-Matérialité visuelle et physique. 
+{% image "/assets/img/beyond-vision1.jpg", "Ref" %}
+![Beyond Vision, Marcello Coelho](/src/sarah-boutiere/2023/projet_personnel/assets/img/beyond-vision1.jpg) <br>
+*Beyond visions*, Marcello Coelho
+
+{% image "/assets/img/Retour_à_la_caverne.png", "Ref" %}
+![Beyond Vision, Marcello Coelho](/src/sarah-boutiere/2023/projet_personnel/assets/img/Retour_à_la_caverne.png) <br>
+*Retour à la caverne*, JR
 
 
-<!-- {% image "remotesonar.jpeg", "Test" %} -->
-![Pergola](/src/sarah-boutiere/2023/projet_personnel/remotesonar.jpeg) <br>
-*Remote sonar drawing device*, David Bowen <br>
-Dispositif interactif mis en place dans deux lieux différents. Les capteurs (à droite) vont influencer le mouvement du bras qui dessinent mais pas celui de l'expo ou les données sont captés, elles sont envoyées à l'autre. Les capteurs envoient donc les infos au bras qui se trouvent dans l'autre espace et va donc retranscrire les mouvements qui se passent à un autre endroit. 
-LIMITE : peu instinctif, on voit dans les vidéos que les gens ne comprennent pas bien pourquoi le bras à côté d'eux ne reproduit pas ses mouvements. 
-Mais intéressant sur l'idée de présence fantôme car interaction invisible ? Donne donc l'impression de ne pas être la. 
+{% image "/assets/img/telepresent_wind.jpg", "Ref" %}
+![Beyond Vision, Marcello Coelho](/src/sarah-boutiere/2023/projet_personnel/assets/img/telepresent_wind.jpg) <br>
+*Tele-present wind*, David Bowen
 
-<!-- {% image "didahdit.png", "Test" %} -->
-![Retour_a_la_caverne](/src/sarah-boutiere/2023/projet_personnel/didahdit.png) <br>
-*Di-Dah-Dit*, Camille Morizot <br>
-Jeu interactif qui repose sur deux modules identitiques. Les joueurs peuvent communiquer à distance par le biais de ce dispositif.
+Les trois projets précèdents mettent en avant la création d'un mouvement unifié à partir de plusieurs entités uniques. 
 
 
-<!-- {% image "twinobject.jpg", "Test" %} -->
-![Retour_a_la_caverne](/src/sarah-boutiere/2023/projet_personnel/twinobject.jpg) <br>
-*Twin objects*, Elise Migraine <br>
-Les twins objects sont des dispositifs fonctionnant par deux. Ils réagissent en fonction du comportement de l'autre. Si une personne appuie sur un bouton, il va se lever chez l'autre. Les personnes peuvent donc communiquer leur présence de manière simple. 
+{% image "/assets/img/sougwen_1.jpg", "Ref" %}
+![Sougwen Chung](/src/sarah-boutiere/2023/projet_personnel/assets/img/sougwen_1.jpg) <br>
+*Omnia per Omnia*, Sougwen Chung <br>
+Au délà de la collaboration entre robot et humain, j'ai choisi ce projet pour son thème qui traite des flux de déplacement au sein de New York ; ils sont récupérés à partir de caméra placées dans la ville. Si j'ai bien compris, la caméra capte plus une globalité du mouvement et non chaque individu contrairement à un système de reconnaissance faciale par exemple. Les robots peignent ces flux sur lesquels se calent l'artiste qui peint en collaboration avec ceux-ci, il serait intéressant de trouver une vidéo de performance pour observer comment ils influencent les mouvements de l'artiste et quels sont les flux vidéos qui sont captés. 
+Où termine le "je" et où commence le "nous" ?
+
+{% image "/assets/img/control_no_control.jpg", "Ref" %}
+![Beyond Vision, Marcello Coelho](/src/sarah-boutiere/2023/projet_personnel/assets/img/control_no_control.jpg)
+*Control no control*, Iregular
+Toujours la même référence depuis l'année dernière qui traite de l'influence entre les personnes et l'interface interactive. L'humain est censé pouvoir controler ce qu'il se passe sur l'écran LED mais finalement le contrôle se trouve dans les deux sens car les personnes sont également influencées par l'interface. 
+Comme déjà cité, pour moi l'intérêt de se projet réside dans la première étape d'interaction avec le cube et ensuite la phase d'observation de l'interaction.
+
+{% image "/assets/img/heider-simmel.jpg", "Ref" %}
+![Beyond Vision, Marcello Coelho](/src/sarah-boutiere/2023/projet_personnel/assets/img/heider-simmel.jpg) <br>
+Test exploité en psychologie qui finalement n'est qu'une vidéos avec des formes géométriques mais dans laquelle l'on projette tout de suite des comportements humains. Je mets cet exemple en avant concernant l'expérimentation sur processing qui se base sur des formes géométriques simples mais qui peuvent nous permettre de nous projeter quand on comportement de personnes réelles. 
 
 
-<!-- {% image "smallcollection.jpg", "Test" %} -->
-![Pergola](/src/sarah-boutiere/2023/projet_personnel/smallcollection.jpg) <br>
-*Small collection*, Hideaki Ogawa <br>
-Small collection et particulièrement les lumières fonctionnent de la même manière ; deux objets interagissent à distance en fonction d'une action d'une personne. En touchant la lumière bleu, elle s'allume chez soit et chez l'autre, signifiant encore une fois la présence. 
-
-Dans tous ces dispositifs on voit qu'il y a une interaction entre deux personnes et qu'ils font office d'interface. Mais dans le cas de mon install une double interaction n'est pas voulue ni nécessaire. Car en effet l'idée de fantôme induit qu'il ne faut pas d'interaction. 
-
-<!-- {% image "beyond-vision1.jpg", "Test" %} -->
-![Beyon_Vision](/src/sarah-boutiere/2023/projet_personnel/beyond-vision1.jpg) <br>
-*Beyond vision*, Marcelo Coelho<br>
-Performance regroupant 400 danseurs chacun équipé de baton lumineux. 
-Par la chorégraphie, la synchronisation de leurs mouvements et la programmation des batons de lumière ; le mouvement s'unifie pour créer un spectacle global.
-Chaque individu, en se synchronisant avec les autres crée un tout et un mouvement fluide, qui se transforme en un danse lumineuse. 
-
-<!-- {% image "Retour_à_la_caverne.png", "Test" %} -->
-![Retour_a_la_caverne](/src/sarah-boutiere/2023/projet_personnel/Retour_à_la_caverne.png)<br>
-*Retour à la caverne*, JR <br>
-Même principe que pour Beyond Vision ; plusieurs danseurs se synchronisent pour dessiner des motifs sur un espace. Un danseur seul n'a que peu d'intérêt et c'est lorsqu'ils se coordonnent que la chorégraphie prend sens. 
 
 
-<!-- {% image "Pergola_labau.png", "Test" %} -->
-![Pergola](/src/sarah-boutiere/2023/projet_personnel/Pergola_labau.png) <br>
-*Pergola*, LAb[au]<br>
-Plastiquement les projections d'ombres et leurs mouvements sont intéressants créant un théâtre d'ombre chinoise abstrait. 
-L'ombre peut être une manière de matérialiser une présence sans qu'elle soit réellement physique et sans qu'on ait forcément d'interaction avec (mais comment ? Proj ? compliqué )
+
 
 
 # Décrire plus précisément votre projet :
-1. Présence fantôme et transposition d'un espace ? Même projet ou ça fait trop ? 
-Ou plutôt reformuler = Matérialiser la présence des passants afin de retransposer un espace. 
-2. Qui est la présence fantôme ? Les passants ou le spectateur ? 
-= En l'occurence le passant est une présence fantôme car l'idée est de la matérialiser sans qu'elle soit réellement présente. 
-= Mais également le spectateur car il se retrouve au sein d'un espace, d'un système dans lequel il ne peut interagir, c'est comme si ça présence n'existait pas. 
-3. Comment matérialiser la présence ? 
-Pour donner une impression de présence, il faut donner soit donner une matérialité aux éléments (une projection ne donnera pas une impression de présence alors que dans le cas de telepresent wind par exemple, le vent est matérialisé par quelque chose de physique) 
-Soit lui donner une forme ou une action qu'on pourrait rattacher à un humain.
-(Par exemple dans les refs de présence de fantôme on rattache une présence à un bruit de pas même si on ne voit personne)
-4. Comment rattacher la présence et la faire comprendre au travers d'une interface ?
-(Par exemple avec le projet small collection, les gens rattache la présence à la lumière allumée mais dans mon cas comment le faire comprendre ?)
+
+<!-- Synchro 
+Interaction
+Influence 
+Groupe 
+Individu 
+Participant
+Spectateur
+Mouvement
+Déplacement
+Marche
+Chorégraphie -->
+
+Dans un premier temps ce projet vise à comprendre comment les mouvements et flux qui nous entourent peuvent avoir une influence sur nous en tant qu'individu. Travailler sur la notion de synchronisation ou de desynchronisation et observer comment peut se créer un mouvement de groupe, à quel moment le déplacement de plusieurs individu commence à ne créer qu'un seul et même mouvement ; quand est-ce que tous les individus fusionnent pour ne laisser apparaître plus qu'un mouvement unifié ? <br>
+Pour cela je vais chercher à déterminer les règles qui créent une cohésion ou pas, pourquoi et quels sont les mouvements qui peuvent être engendrés.
+<br>
+La but final du projet serait d'exploiter cette influence afin de tenter de créer une chorégraphie unifiée à partir de plusieurs individus et une action simple telle que la marche.
+
+A mettre en place : <br>
+<li>Forcer l'action de la marche 
+
+= Pour l'instant, idée d'automates qui se déplaceraient dans le même espace que les participants, les forçant ainsi à marcher en fonction de différents comportements(évitemment, curiosité, jeu...) <br><br>
+La forme que j'imagine (dans un monde idéal) serait donc créée avec des automates qui influenceraient les personnes au sein de la pièce afin de les faire se déplacer, le but étant d'avoir un également un espace duquel on pourrait observer les actions en train de se dérouler et ainsi, après avoir vécu l'expérience, pouvoir se placer cette fois-ci en tant qu'observateur de processus. 
 
 # Quels moyens techniques mettre en œuvre pour réaliser votre projet :
-Trouver des flux vidéos de rue, d'endroit passants pour traiter les données. 
+En parallèle : prêter attention à l'influence des flux autours de moi, dans quelle conditions elles m'influencent ou pas et pourquoi. 
 
-La suite à déterminer en fonction de forme plastique. 
+Pour expérimenter différentes formes et définir les règles nécessaires : processing.
+Création d'agents "humains" qui interagissent de manière variables avec d'autres agents "automates" pour observer les mouvements qui peuvent être crées en fonction de :
+<li>nombre d'automates
+<li>l'espace 
+<li>des zones d'entrées et de sortie
+<li>du comportement des automates 
+<li>du comportement des personnes 
+<li>etc...
+
+Ce processus permet un travail préalabre à la forme du projet final qui me paraît pertinent car il induit des questionnements quand au comportement des agents que je programme. Il est en effet nécessaire de se demander si le comportement généré est cohérent en fonction du contexte et amène à poser des règles qui m'aideront à construire mon projet.
+
+
+<br>
+
+La suite des expérimentations pourra se dérouler dans un premier temps avec une projection des "automates" pour observer les mouvements produits dans la réalité et adapter le projet en conséquence.
+
+<br><br>
+
+Puis dans un monde idéal :<br>
+Réalisation du projet, en fonction de la forme qu'il prendra qui pour le moment ressemblerait à : <br>
+la création d'automates physiques probablement pilotés grâce à des arduinos avec une esthétique qui reste à définir, les matériaux etc... Afin d'apporter une couche supplémentaire à la chorégraphie.
+
+# Conclusion de la trame :
+Rappel de l'intention de projet : <br>
+Influencer les participants pour créer une chorégraphie à plusieurs qui se construit en temps réel avec une action simple du quotidien : la marche.
+
+Peut-être envisager une forme plus réalisable à l'échelle du semestre : <br>
+Expérimenter avec différentes formes la question de l'individu et le groupe ; à partir de quel moment les différents mouvements de plusieurs individus disparaissent pour laisser place à un mouvement unique de groupe ? 
